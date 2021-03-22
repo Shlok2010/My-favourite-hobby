@@ -1,0 +1,53 @@
+img
+{
+  border-radius:50px;
+  width:100px;
+}
+body
+{
+ background-color:cyan;
+  text-align:center;
+    margin:20px;}
+
+    
+p
+{
+  font-size:20px;
+}
+.line
+{
+  height:6px;
+  width:70px;
+  background-color:#000;
+ margin:8px auto;
+}
+.menu
+{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+}
+.link
+{
+    float: left;
+    color: crimson;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right:  9px;
+    padding-left: 9px;
+    font-family: inherit;
+    font-size: 20px;
+}
+.parallax-inner
+{
+    display:table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+a.ex1:hover, a.ex1:active {
+  color:green;
